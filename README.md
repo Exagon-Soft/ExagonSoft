@@ -1,11 +1,11 @@
 ![natterstefan](https://github.com/exagonsoft/exagonsoft/blob/main/ExagonSoft.png)
 
-![GitHub Views](https://komarev.com/ghpvc/?username=exagonsoft&color=FAC151)
-[![jabascript](https://img.shields.io/badge/Javascript-Fan-FAC151.svg?logo=javascript&logoWidth=20)](https://github.com/exagonsoft)
-[![jabascript](https://img.shields.io/badge/BlockChain-Fan-FAC151.svg?logo=bitcoin&logoWidth=20)](https://github.com/exagonsoft)
-[![jabascript](https://img.shields.io/badge/GameDevelop-Fan-FAC151.svg?logo=unity&logoWidth=20)](https://github.com/exagonsoft)
+![GitHub Views](https://komarev.com/ghpvc/?username=Exagon-Soft&color=FAC151)
+[![jabascript](https://img.shields.io/badge/Javascript-Fan-FAC151.svg?logo=javascript&logoWidth=20)](https://github.com/Exagon-Soft)
+[![jabascript](https://img.shields.io/badge/BlockChain-Fan-FAC151.svg?logo=bitcoin&logoWidth=20)](https://github.com/Exagon-Soft)
+[![jabascript](https://img.shields.io/badge/GameDevelop-Fan-FAC151.svg?logo=unity&logoWidth=20)](https://github.com/Exagon-Soft)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=exagonsoft&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Exagon-Soft&theme=onedark&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Hi friends 👋
 
